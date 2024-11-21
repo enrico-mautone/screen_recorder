@@ -1,0 +1,7 @@
+pyautogui 
+opencv-python  
+pyaudio 
+moviepy
+keyboard 
+numpy
+pillow
